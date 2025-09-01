@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("hello kcci");
+	printf("hello intel");
 }
