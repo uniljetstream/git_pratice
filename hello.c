@@ -2,5 +2,6 @@
 
 int main()
 {
+<<<<<<< HEAD
 	printf("hello intel");
 }
